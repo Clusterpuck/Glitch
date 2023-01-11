@@ -1,0 +1,7 @@
+{
+  "glitch-help-instructions": "For a custom domain, change the 'url' parameter from 'glitch-default' to your domain _without_ a traling slash, like 'https://www.example.com'",
+  "title": "Nick's First Pages",
+  "description": "A simple React single page app, built with Glitch. Remix it to get your own!!!!",
+  "url": "https://www.nickwright.info",
+  "image": "https://cdn.glitch.global/48b686f6-ab7e-46d2-9a23-1714f5d7dcab/photo3.jpeg?v=1672990885489"
+}
